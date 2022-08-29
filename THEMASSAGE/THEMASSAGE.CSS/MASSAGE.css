@@ -1,0 +1,188 @@
+.logo{
+    width: 50px;
+    height: 25px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+
+.navbar{
+    text-align:right;
+    margin-top: 30px;
+    padding-left: 40%;
+      
+}
+
+
+.navbar a{
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 20px;
+    color: black;
+  }
+  
+  
+.amara{
+    margin-left: 730px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: white;
+    background-color:rgb(165, 154, 154);
+    border-radius: 4px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 22px 30px;
+    position: relative;
+    bottom: 300px;
+} 
+
+.page{
+    position: relative;
+    left: 250px;
+    border: 1px solid black;
+    width: 600px;
+    padding: 10px 8px;
+}
+
+.book{
+    text-decoration: none;
+    color: white;
+    background-color:rgb(38, 71, 38);
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding: 22px 290px;
+    margin-top: 300px;
+  position: relative;
+  margin-left:220px ;
+  top: 30px;     
+}
+
+
+.page2{
+    position: relative;
+    left: 250px;
+    border: 1px solid black;
+    width: 600px;
+    padding: 10px 8px;
+}
+
+.book2{
+    text-decoration: none;
+    color: white;
+    background-color:rgb(38, 71, 38);
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding: 22px 290px;
+    margin-top: 300px;
+  position: relative;
+  margin-left:220px ;
+  top: 30px;     
+}
+
+
+
+.page3{
+    position: relative;
+    left: 250px;
+    border: 1px solid black;
+    width: 600px;
+    padding: 10px 8px;
+}
+
+.book3{
+    text-decoration: none;
+    color: white;
+    background-color:rgb(38, 71, 38);
+    font-size: 20px;
+    letter-spacing: 1px;
+    padding: 22px 290px;
+    margin-top: 300px;
+  position: relative;
+  margin-left:220px ;
+  top: 30px;     
+}
+
+
+.fafa{
+    position: relative;
+    left: 700px;
+    display:inline-block;
+    top: 20px
+}
+
+
+.fafa i{
+  position: relative;
+  padding: 14px 16px;
+  font-size: 20px;
+  border: 1px solid rgb(182, 171, 171);
+}
+
+.form{
+  margin-top: 50px;
+  margin-left:200px ;
+  padding: 12px 10px;
+  width: 300px;
+}
+
+.input{
+  font-size: 20px;
+  width: 600px;
+}
+
+.add{
+ padding-left:900px ;
+ margin-top: -150px; 
+position: absolute;
+font-size: 25px;
+}
+.amaraImg{
+  display: flex;
+  justify-content: space-between;
+  height: 500px;
+  width:100%;
+  gap: 20px;
+  
+}
+.amaraImg img{
+  height: 500px;
+}
+
+
+
+.container{
+  position: relative;
+  width: 400px;
+}
+
+
+.overlay{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width:100%;
+  opacity: 0;
+  transition: 0.5 ease;
+  background-color: rgba(33, 105, 105, 0.329);
+
+}
+
+.container:hover .overlay{
+  opacity: 1;
+}
+
+.text{
+  
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  bottom: -20px;
+  text-align: center;
+
+}
+
+
+ 
